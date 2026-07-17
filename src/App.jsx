@@ -31,7 +31,7 @@ export default function App() {
               onClick={() => setActivePage(key)}
             >
               {label}
-            </button>
+            
           ))}
         </nav>
       </header>
