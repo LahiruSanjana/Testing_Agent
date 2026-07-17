@@ -21,7 +21,7 @@ export default function App() {
         <div>
           <p className="eyebrow">AI CICD Error Analysis Agent</p>
           <h1>Operational Sandbox</h1>
-        </div>
+        </div
         <nav className="nav-tabs" aria-label="Primary pages">
           {Object.entries(pageTitles).map(([key, label]) => (
             <button
