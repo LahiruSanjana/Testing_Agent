@@ -18,7 +18,7 @@ export default function App() {
   return (
     <div className="app-shell">
       <header className="topbar">
-        <div
+        <div>
           <p className="eyebrow">AI CICD Error Analysis Agent</p>
           <h1>Operational Sandbox</h1>
         </div>
