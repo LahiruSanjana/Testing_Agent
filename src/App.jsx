@@ -33,8 +33,7 @@ export default function App() {
               {label}
             </button>
           ))}
-        </nav>
-      </header>
+        
 
       <main className="content-panel">
         {activePage === "dashboard" && <Dashboard />}
